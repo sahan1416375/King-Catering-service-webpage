@@ -1,0 +1,9 @@
+.content_right h1{
+    color: red;
+}
+.catagories{
+    width: 300px;
+    height:400px;
+    background-color: beige;
+    margin-left: 150px;
+}
